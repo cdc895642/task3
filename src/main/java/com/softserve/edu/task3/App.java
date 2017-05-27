@@ -2,12 +2,10 @@ package com.softserve.edu.task3;
 
 import com.softserve.edu.task3.figures.TriangleProvider;
 
-import java.text.NumberFormat;
 import java.text.ParseException;
 
 /**
  * entry point
- *
  */
 public class App 
 {
